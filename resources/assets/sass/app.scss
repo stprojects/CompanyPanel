@@ -1,0 +1,37 @@
+// Variables
+@import "variables";
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.form {
+	padding: 30px 50px;
+}
+
+body {
+    font-family: 'Lato';
+}
+
+.fa-btn {
+    margin-right: 6px;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.form {
+  max-width: 500px;
+}
+
+nav {
+  font-weight: 100;
+  padding: 0 10px 10px 10px;
+  color: #fff
+}
+
+.site-content {
+  padding: 50px 0;
+}
